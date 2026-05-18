@@ -6,7 +6,7 @@ Esta guía te explicará paso a paso cómo construir y ejecutar la aplicación d
 
 Debido al tamaño elevado de los archivos resultantes del entrenamiento (modelos `.keras`), estos exceden los límites de tamaño permitidos por GitHub. Por ello, **los modelos están adjuntados en un archivo `.zip` en la entrega de la práctica**. 
 
-Por favor, asegúrate de descomprimir ese archivo `.zip` y colocar los tres modelos (`birds_reentrenado.keras`, `birds_final.keras` y `birds_final_v2.keras`) directamente en esta misma carpeta (junto al archivo `app.py`) antes de seguir los pasos de esta guía.
+Por favor, asegúrate de descomprimir ese archivo `.zip` y colocar los tres modelos (`birds_MobileNet.keras`, `birds_base.keras` y `birds_EfficientNetV2.keras`) directamente en esta misma carpeta (junto al archivo `app.py`) antes de seguir los pasos de esta guía.
 
 ## 📋 Requisitos Previos
 
